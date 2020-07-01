@@ -48,7 +48,7 @@ radio.onReceivedNumber(function (receivedNumber) {
             . # . # .
             # . . . #
             `)
-    } else if (じゃんけん == receivedNumber) {
+    } else {
         basic.showLeds(`
             . . . . .
             . . . . .
